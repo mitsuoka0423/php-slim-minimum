@@ -1,0 +1,13 @@
+{
+    "name": "mitsu/php-line-bot-practice",
+    "authors": [
+        {
+            "name": "takahiro mitsuoka",
+            "email": "tmitsuoka0423@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^4.4",
+        "slim/psr7": "^1.0"
+    }
+}
